@@ -1,5 +1,5 @@
 # Go Chase it!
-Simple ROS robot which chases a white ball
+Simple ROS robot which chases a white ball.
 This project is a part of the Udacity Robotics Software engineer nanodegree
 
 If a white ball is within the robot's field of view it checks whether it's in the left, center or right part of the image and moves accordingly.
